@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gelmut_lab8_rpm.Program">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gelmut_lab8_rpm.AirBalloon">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAACAIA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gelmut_lab8_rpm.Adapter">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACEAAAIAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.289" />
+  </Class>
+  <Interface Name="gelmut_lab8_rpm.ITarget">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACEAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
